@@ -13,7 +13,7 @@ If you use our paper, please cite it:
 
 ```bibtex
 @UNPUBLISHED{Buttiker2011,
-  author = {B\"{u}ttiker, Leo and F\¨{a}ssler, Urs  and  R\¨{u}egg, Nicolas},
+  author = {B{\"u}ttiker, Leo and F{\"a}ssler, Urs  and  R{\"u}egg, Nicolas},
   title = {Inpainting by Sensitive Mean Filtering},
   note = {A Paper produced during the 2011 Computational Intelligenc Lab course,
 	Group moebs, Department of Computer Science, ETH Zurich, Switzerland},
@@ -23,3 +23,6 @@ If you use our paper, please cite it:
   url = {https://github.com/leobuettiker/CIL-2011-Inpainting-by-Sensitive-Mean-Filtering/blob/master/report.pdf?raw=true}
 }
 ```
+
+For other approaches see:
+* https://github.com/3lectrologos/cil/
